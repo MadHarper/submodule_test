@@ -1,4 +1,5 @@
 model {
     int oneField
     int twoField
+    int treeField
 }
